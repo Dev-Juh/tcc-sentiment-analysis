@@ -2,7 +2,7 @@
 
 > ANÁLISE COMPARATIVA DE ALGORITMOS CLÁSSICOS DE MACHINE LEARNING APLICADOS À CLASSIFICAÇÃO DE SENTIMENTOS EM TEXTOS
 > Trabalho de Conclusão de Curso — Engenharia de Software · UNINTER · 2026  
-> **Janyelle Oliveira** 
+> **Janyelle Oliveira** &
 > **Júlia Oliveira**
 
 ---
