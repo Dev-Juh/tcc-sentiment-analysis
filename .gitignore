@@ -1,0 +1,10 @@
+# Dados — baixar via Kaggle
+data/
+
+# Modelos treinados — gerar rodando o notebook 03
+models/
+
+# Arquivos do sistema
+.DS_Store
+__pycache__/
+*.pyc
